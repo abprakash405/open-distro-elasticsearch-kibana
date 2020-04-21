@@ -1,0 +1,13 @@
+
+Set-Alias -Name k -Value kubectl
+
+-------------------------------------------------------------------------------
+
+elasticsearch takes 3-5 minutes
+kibana takes 8 minutes to fully up and running 
+
+-------------------------------------------------------------------------------
+
+
+
+
